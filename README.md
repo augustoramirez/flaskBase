@@ -7,7 +7,7 @@
 
 A Flask application template with the boilerplate code already done for you.
 
-Esto es una prueba
+Esto es una prueba ...
 
 **Documentation available at [http://hack4impact.github.io/flask-base](http://hack4impact.github.io/flask-base).**
 
