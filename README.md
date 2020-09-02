@@ -9,8 +9,9 @@ A Flask application template with the boilerplate code already done for you.
 
 Esto es una prueba ... 
 
-pero esto lo mejora
+##pero esto no lo estaba mejorando 
 
+no se porque no cambia el archivo
 
 **Documentation available at [http://hack4impact.github.io/flask-base](http://hack4impact.github.io/flask-base).**
 
